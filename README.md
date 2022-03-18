@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jerunnon
+- 👋 Hi, I’m @Simon
 - 👀 I’m interested in Webdevelopment and Design
 - 🌱 I’m currently learning SASS / Javascript
 - 💞️ I’m looking to collaborate on Webdevelopment
